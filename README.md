@@ -1,6 +1,6 @@
 # Cardputer 12C
 
-A faithful HP 12C-style RPN financial calculator for the
+A HP 12C-style inspired RPN financial calculator for the
 [M5Stack Cardputer](https://docs.m5stack.com/en/core/Cardputer).
 
 Built on the Arduino framework using the official `M5Cardputer` library.
